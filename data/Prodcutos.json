@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Mancuernas 10kg",
+    "category": "GYM",
+    "price": 25.00,
+    "image": "/images/Mancuernas.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Proteína Whey 2lb",
+    "category": "GYM",
+    "price": 45.99,
+    "image": "/images/proteina.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Esterilla de Yoga",
+    "category": "GYM",
+    "price": 15.50,
+    "image": "/images/yoga.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Guantes de Entrenamiento",
+    "category": "GYM",
+    "price": 12.99,
+    "image": "/images/guantes.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Creatina Monohidratada",
+    "category": "GYM",
+    "price": 29.00,
+    "image": "/images/creatina.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Cuerda para Saltar Pro",
+    "category": "GYM",
+    "price": 10.00,
+    "image": "/images/cuerda.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Banca de Pesas Ajustable",
+    "category": "GYM",
+    "price": 110.00,
+    "image": "/images/banca.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Discos Olímpicos 5kg (par)",
+    "category": "GYM",
+    "price": 34.00,
+    "image": "/images/discos.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Barra Recta 1.5m",
+    "category": "GYM",
+    "price": 60.00,
+    "image": "/images/barra.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Shaker de Mezcla 700ml",
+    "category": "GYM",
+    "price": 6.99,
+    "image": "/images/shaker.jpg"
+  }
+]
